@@ -36,6 +36,10 @@
     {
       "path": "src/assets/fonts/Outfit-Thin.ttf",
       "sha1": "09459262264acfe2f30db5fcf2de63e6115449b6"
+    },
+    {
+      "path": "src/assets/images/kate.png",
+      "sha1": "cce844c724391810ac4d5bc54e794571c90a8379"
     }
   ]
 }

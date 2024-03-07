@@ -23,6 +23,7 @@
 		092CCFF840174D4C9C818735 /* Outfit-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D6F16C4CD52B45E8A320457E /* Outfit-Regular.ttf */; };
 		EEA73684A2F440AC9350D98F /* Outfit-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 978AEA49AB5B41AB8F60003F /* Outfit-SemiBold.ttf */; };
 		00A8121138D74FFE9D579DA7 /* Outfit-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C8A3B143276B40448B8B5824 /* Outfit-Thin.ttf */; };
+		EF6977671B1340C598160AEB /* kate.png in Resources */ = {isa = PBXBuildFile; fileRef = CDB5467E342B484080AA6D85 /* kate.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -62,6 +63,7 @@
 		D6F16C4CD52B45E8A320457E /* Outfit-Regular.ttf */ = {isa = PBXFileReference; name = "Outfit-Regular.ttf"; path = "../src/assets/fonts/Outfit-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 		978AEA49AB5B41AB8F60003F /* Outfit-SemiBold.ttf */ = {isa = PBXFileReference; name = "Outfit-SemiBold.ttf"; path = "../src/assets/fonts/Outfit-SemiBold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 		C8A3B143276B40448B8B5824 /* Outfit-Thin.ttf */ = {isa = PBXFileReference; name = "Outfit-Thin.ttf"; path = "../src/assets/fonts/Outfit-Thin.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		CDB5467E342B484080AA6D85 /* kate.png */ = {isa = PBXFileReference; name = "kate.png"; path = "../src/assets/images/kate.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -179,6 +181,7 @@
 				D6F16C4CD52B45E8A320457E /* Outfit-Regular.ttf */,
 				978AEA49AB5B41AB8F60003F /* Outfit-SemiBold.ttf */,
 				C8A3B143276B40448B8B5824 /* Outfit-Thin.ttf */,
+				CDB5467E342B484080AA6D85 /* kate.png */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
@@ -288,6 +291,7 @@
 				092CCFF840174D4C9C818735 /* Outfit-Regular.ttf in Resources */,
 				EEA73684A2F440AC9350D98F /* Outfit-SemiBold.ttf in Resources */,
 				00A8121138D74FFE9D579DA7 /* Outfit-Thin.ttf in Resources */,
+				EF6977671B1340C598160AEB /* kate.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

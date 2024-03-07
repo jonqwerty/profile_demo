@@ -1,4 +1,5 @@
 export const Colors = {
+  lime: '#BDFF31',
   yellow: '#F8A121',
   pink: '#fc97e6',
   blue: '#dee2fc',
@@ -6,6 +7,7 @@ export const Colors = {
   white: '#fff',
   black: '#000',
   red: '#F00',
+  grey: '#D2D2D7',
 };
 
 export const FontFamily = {
