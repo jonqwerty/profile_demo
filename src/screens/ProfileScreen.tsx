@@ -3,6 +3,7 @@ import React, {FC} from 'react';
 
 import {Colors} from '../common/style';
 import ProfileBlock from '../layout/ProfileBlock';
+import ContactsBlock from '../layout/ContactsBlock';
 
 const ProfileScreen: FC = () => {
   return (
@@ -12,6 +13,7 @@ const ProfileScreen: FC = () => {
         showsVerticalScrollIndicator={false}
         style={styles.scroll}>
         <ProfileBlock />
+        <ContactsBlock />
       </ScrollView>
     </View>
   );
