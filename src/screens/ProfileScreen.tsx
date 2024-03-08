@@ -40,6 +40,7 @@ const styles = StyleSheet.create({
 
   contentContainerStyle: {
     flexGrow: 1,
+    paddingBottom: 40,
   },
 
   wrapper: {height: 100},

@@ -18,7 +18,7 @@ const AdventuresBlock: FC = () => {
           iconFill={Colors.black_70}
           isBusiness
           description="Alla scoperta dei produttori di vino altoatesini in ebike"
-          route="Utrecht Keukenhof"
+          route="Utrecht > Keukenhof"
           isFree
           days={'3 Days'}
           numberOne={'3.88'}
@@ -38,6 +38,27 @@ const AdventuresBlock: FC = () => {
           image={require('../assets/images/photo_2.png')}
           iconStrock={Colors.white}
           iconFill={Colors.black_70}
+          description="Weekend ride"
+          route="Utrecht"
+          isFree
+          days={'3 Days'}
+        />
+        <Card
+          image={require('../assets/images/photo_4.png')}
+          iconStrock={Colors.white}
+          iconFill={Colors.black_70}
+          isBusiness
+          description="Alla scoperta dei produttori di vino altoatesini in ebike"
+          route="Utrecht > Keukenhof"
+          isFree
+          days={'3 Days'}
+          numberOne={'3.88'}
+          numberTwo={'(17)'}
+        />
+        <Card
+          image={require('../assets/images/photo_3.png')}
+          iconStrock={Colors.black}
+          iconFill={Colors.lime}
           description="Weekend ride"
           route="Utrecht"
           isFree

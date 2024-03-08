@@ -40,6 +40,22 @@
     {
       "path": "src/assets/images/kate.png",
       "sha1": "cce844c724391810ac4d5bc54e794571c90a8379"
+    },
+    {
+      "path": "src/assets/images/photo_1.png",
+      "sha1": "c2e02a8ac72359459a18b1417abf4cd304706bdc"
+    },
+    {
+      "path": "src/assets/images/photo_2.png",
+      "sha1": "e5b774459c3221fdc5c1c581b81eccfdb86b0419"
+    },
+    {
+      "path": "src/assets/images/photo_3.png",
+      "sha1": "f5684cca30fb7ea684c7d4cc6e62c99fc2fdb448"
+    },
+    {
+      "path": "src/assets/images/photo_4.png",
+      "sha1": "b4151db4499b835317602a127839c166dac635a8"
     }
   ]
 }
