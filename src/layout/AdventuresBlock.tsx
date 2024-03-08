@@ -16,16 +16,32 @@ const AdventuresBlock: FC = () => {
           image={require('../assets/images/photo_2.png')}
           iconStrock={Colors.white}
           iconFill={Colors.black_70}
+          isBusiness
+          description="Alla scoperta dei produttori di vino altoatesini in ebike"
+          route="Utrecht Keukenhof"
+          isFree
+          days={'3 Days'}
+          numberOne={'3.88'}
+          numberTwo={'(17)'}
         />
         <Card
           image={require('../assets/images/photo_1.png')}
           iconStrock={Colors.black}
           iconFill={Colors.lime}
+          description="Weekend ride"
+          route="Utrecht"
+          start="From CHF75/person"
+          days={'5 hours'}
+          isNew
         />
         <Card
           image={require('../assets/images/photo_2.png')}
           iconStrock={Colors.white}
           iconFill={Colors.black_70}
+          description="Weekend ride"
+          route="Utrecht"
+          isFree
+          days={'3 Days'}
         />
       </View>
       <View style={styles.cardsBlock}></View>
